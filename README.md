@@ -1,7 +1,7 @@
 
-#<center>实验5: pca特征提取</center>
+# <center>实验5: pca特征提取</center>
 
-##<p align="right">17123075 李龙旭</p>
+## <p align="right">17123075 李龙旭</p>
 __算法流程__
 >1.对原数据集零均值化
 >2.求出均值化X的协方差矩阵
